@@ -1,4 +1,4 @@
-# Hi, I'm Cleiton!
+# Hi, I'm Cleiton! :stuck_out_tongue_winking_eye:
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/c-sferreira)](https://github.com/c-sferreira)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/cleiton-ferreira-6400b6125/)](https://www.linkedin.com/in/cleiton-ferreira-6400b6125/)

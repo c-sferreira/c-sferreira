@@ -7,11 +7,11 @@
 -->
 ### Sobre mim
 Estudante de Analise e desenvolvimento | Estágio | HTML | CSS | JavaScript | VueJS | Node | React | Java | Spring Boot 🚀🚀🚀.
-26 anos
-Cônjuge: Angélica
-Pai das princesas: Maria Eduarda, Isabel e Raquel
 
-Sinto que posso fazer coisas incríveis, agregar valor e aprender novas tecnologias constantemente, com isto, me sinto capaz de encarar novos desafios, pois acredito que além das competências técnicas eu posso entregar muito mais além do que uma empresa espera de um colaborador.
+
+#### Um pouco mais sobre mim
+
+Sinto que posso fazer coisas incríveis, agregar valor e aprender novas tecnologias constantemente, com isto, me sinto capaz de encarar novos desafios, pois acredito que além das competências técnicas, eu posso entregar muito mais além do que uma empresa espera de um colaborador.
 
 <!-- - [Courses](https://www.treinaweb.com.br/cursos-online?q=fagner+pinheiro) 👨🏼‍🏫 - It's are technical courses on many technologies, such as Django, Flask, Python, Kotlin, Flutter, Dart, Git and more
 - [Blog](https://www.treinaweb.com.br/blog/author/fagner-pinheiro/) ✍🏼 - I'm write about many things.

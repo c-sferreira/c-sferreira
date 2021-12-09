@@ -6,7 +6,7 @@
 [![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 -->
 ### Sobre mim
-Estudante de Analise e desenvolvimento | Estágio | HTML | CSS | JavaScript | VueJS | Node | React | Java | Spring Boot 🚀🚀🚀.
+| HTML | CSS | JavaScript | VueJS | Node | React | Java | Spring Boot 🚀🚀🚀.
 
 
 #### Um pouco mais sobre mim
